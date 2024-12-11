@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937504110147",
+    "project_id": "prova-2---a-malvada-877da",
+    "storage_bucket": "prova-2---a-malvada-877da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937504110147:android:44d15ac3498d5ac08c86f6",
+        "android_client_info": {
+          "package_name": "com.example.prova2pdm_amalvada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3TDnxzjT8KL2QQD3OueGnVKduf_YDn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

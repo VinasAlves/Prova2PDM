@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prova 2 - A Malvada</string>
+    <string name="home">Home</string>
+    <string name="cliente">Café</string>
+    <string name="itens">Itens</string>
+    <string name="info">Info</string>
+    <string name="edit">Edit</string>
+    <string name="logo_description">Logo da Empresa</string>
+    <string name="welcome_message">Bem-vindos ao %1$s</string>
+</resources>
